@@ -1,1 +1,2 @@
 # CNN
+This project classifies CIFAR-10 images using a CNN and connects it to a NAO humanoid robot for real-time interaction. It covers image preprocessing, training, and live classification from the robot’s camera. Core files include cnn_model.ipynb, camera.py, and nao_identify_speak.py. Built with Python, TensorFlow, and NAOqi SDK. Ensure required packages like tensorflow, numpy, and naoqi are installed.
